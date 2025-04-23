@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ5dnp6bDFvdXF4MXd5dDdyYnZmaHRjZnU2NzAxa3RnNnMyZXl6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BcRfLX0NlFqH31RIe/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -80,6 +76,13 @@
 
 ###
 
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/39xSvTgHj2jYCWqsLf/giphy.gif?cid=ecf05e47rwqrpku3je29kms0axfyvgub9rq9l6lpyc2qbnr1&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
 <div align="left">
   <a href="ianshimenga2@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -106,6 +109,4 @@
 </div>
 
 ###
-
-
 
