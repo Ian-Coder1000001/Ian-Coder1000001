@@ -1,6 +1,10 @@
 <h2 align="left">👋 Hello there!<br>I'm Ian Shimenga, a passionate Fullstack Software Developer based in Nairobi, Kenya 🇰🇪. I specialize in building dynamic, scalable, and user-centric web applications. Whether it's designing sleek front-end interfaces or developing robust back-end systems, I'm all about crafting solutions that are both functional and delightful.
 
 
+
+
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ian-Coder1000001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ian-Coder1000001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
