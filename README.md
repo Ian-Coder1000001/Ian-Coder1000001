@@ -11,11 +11,11 @@ Full-stack developer in training specializing in React, Next.js & Node.js | Brin
 </p>
 
 <p align="center">
-  <a href="mailto:ianshi2@gmail.com" target="_blank">
+  <a href="mailto:ianshimenga2@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ian-shi/" target="_blank">
+  <a href="https://www.linkedin.com/in/ian-shimenga/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   &nbsp;
@@ -176,5 +176,5 @@ I'm actively looking for junior developer roles and mentorship opportunities. If
 </picture>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Ian-Coder1000001/count.svg" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=Ian-Coder1000001&color=blueviolet&style=flat" alt="visitor counter" />
 </p>
